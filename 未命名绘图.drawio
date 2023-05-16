@@ -1,9 +1,238 @@
-<mxfile host="app.diagrams.net" modified="2023-05-16T08:53:14.888Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.42" version="21.3.2" etag="8CCht9QlLizUQtBQ-KoQ" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-16T13:59:39.124Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.42" etag="ZFhx_S-FoJ9RGg8nk0T7" version="21.3.2" type="github" pages="3">
   <diagram name="第 1 页" id="Z1XwWFOZ0dwyudqfNNpK">
-    <mxGraphModel>
+    <mxGraphModel dx="899" dy="676" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="CMN-UrAwK8WjBZGEzhFt-26" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="70" width="220" height="460" as="geometry" />
+        </mxCell>
+        <mxCell id="CpeIb7EebVz6XcGn7U1O-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="CMN-UrAwK8WjBZGEzhFt-1" target="CpeIb7EebVz6XcGn7U1O-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CMN-UrAwK8WjBZGEzhFt-1" value="" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="140" y="190" width="70" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="BE3bZzbuBwBQ871obZrc-1" value="校职工" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="570" y="90" width="70" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="CpeIb7EebVz6XcGn7U1O-1" value="环境检测设备" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="125" y="310" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CpeIb7EebVz6XcGn7U1O-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CpeIb7EebVz6XcGn7U1O-2" target="CpeIb7EebVz6XcGn7U1O-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CpeIb7EebVz6XcGn7U1O-2" value="分析数据" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="190" width="120" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="CpeIb7EebVz6XcGn7U1O-4" value="自动浇灌设备" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="570" y="310" width="60" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="CpeIb7EebVz6XcGn7U1O-10" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.3333333333333333;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="CpeIb7EebVz6XcGn7U1O-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="440" y="390" as="sourcePoint" />
+            <mxPoint x="530" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CpeIb7EebVz6XcGn7U1O-11" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.3333333333333333;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="BE3bZzbuBwBQ871obZrc-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="414" y="370" as="sourcePoint" />
+            <mxPoint x="524" y="270" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="460" y="310" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CpeIb7EebVz6XcGn7U1O-12" value="分配浇水" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="360" width="120" height="90" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="2kgoYtwAmiKsvPrhrJqS" name="第 2 页">
+    <mxGraphModel dx="899" dy="676" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="kCdRtaojSjN7lM5AEa1G-3" value="土壤湿度传感器" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="160" y="220" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="kCdRtaojSjN7lM5AEa1G-4" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="240" y="259.5" as="sourcePoint" />
+            <mxPoint x="330" y="259.5" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kCdRtaojSjN7lM5AEa1G-5" value="浇水系统" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="334" y="220" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="kCdRtaojSjN7lM5AEa1G-6" value="土壤湿度" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="255" y="238" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kCdRtaojSjN7lM5AEa1G-7" value="" style="endArrow=classic;html=1;rounded=0;entryX=-0.062;entryY=0.625;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="kCdRtaojSjN7lM5AEa1G-10">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="410" y="240" as="sourcePoint" />
+            <mxPoint x="460" y="190" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kCdRtaojSjN7lM5AEa1G-8" value="" style="endArrow=classic;html=1;rounded=0;entryX=-0.054;entryY=0.617;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="kCdRtaojSjN7lM5AEa1G-9">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="290" as="sourcePoint" />
+            <mxPoint x="440" y="350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kCdRtaojSjN7lM5AEa1G-9" value="灌溉设备" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="490" y="268" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="kCdRtaojSjN7lM5AEa1G-10" value="&amp;nbsp;校职工" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="490" y="158" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="kCdRtaojSjN7lM5AEa1G-11" value="发送浇水通知" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="380" y="190" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kCdRtaojSjN7lM5AEa1G-12" value="发送浇水信号" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="400" y="270" width="100" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="1RXm6EM1ijcaSZPypoMo" name="第 3 页">
+    <mxGraphModel dx="899" dy="676" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="7XKjJBY6jp77NSFB8tk4-12" value="" style="shape=internalStorage;whiteSpace=wrap;html=1;backgroundOutline=1;dx=140;dy=50;" vertex="1" parent="1">
+          <mxGeometry x="220" y="370" width="350" height="380" as="geometry" />
+        </mxCell>
+        <mxCell id="7XKjJBY6jp77NSFB8tk4-1" value="检测土壤湿度" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="245" y="490" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="7XKjJBY6jp77NSFB8tk4-13" value="" style="shape=internalStorage;whiteSpace=wrap;html=1;backgroundOutline=1;dx=0;dy=50;" vertex="1" parent="1">
+          <mxGeometry x="570" y="370" width="130" height="380" as="geometry" />
+        </mxCell>
+        <mxCell id="7XKjJBY6jp77NSFB8tk4-15" value="检测设备" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="255" y="380" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7XKjJBY6jp77NSFB8tk4-16" value="系统" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="435" y="380" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7XKjJBY6jp77NSFB8tk4-17" value="浇水的人或者设备" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="575" y="380" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7XKjJBY6jp77NSFB8tk4-18" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="440" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="7XKjJBY6jp77NSFB8tk4-19" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="279.5" y="450" as="sourcePoint" />
+            <mxPoint x="280" y="490" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="280" y="480" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7XKjJBY6jp77NSFB8tk4-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7XKjJBY6jp77NSFB8tk4-20" target="7XKjJBY6jp77NSFB8tk4-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7XKjJBY6jp77NSFB8tk4-20" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;" vertex="1" parent="1">
+          <mxGeometry x="275" y="650" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="7XKjJBY6jp77NSFB8tk4-22" value="未来气象" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="245" y="584.5" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7XKjJBY6jp77NSFB8tk4-24" value="系统分析" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="450" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7XKjJBY6jp77NSFB8tk4-25" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="7XKjJBY6jp77NSFB8tk4-24">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="315" y="510" as="sourcePoint" />
+            <mxPoint x="385" y="480" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7XKjJBY6jp77NSFB8tk4-30" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.103;entryY=0.978;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="7XKjJBY6jp77NSFB8tk4-24">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="290" y="580" as="sourcePoint" />
+            <mxPoint x="340" y="530" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="350" y="550" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7XKjJBY6jp77NSFB8tk4-33" value="需要浇灌，分配浇灌" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="640" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7XKjJBY6jp77NSFB8tk4-36" value="自动浇水设施浇水" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="590" y="455" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="7XKjJBY6jp77NSFB8tk4-37" value="校职工浇水" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="590" y="560" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="E-WlKir0uZnLjvT3n0UK-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="E-WlKir0uZnLjvT3n0UK-1" target="7XKjJBY6jp77NSFB8tk4-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E-WlKir0uZnLjvT3n0UK-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="E-WlKir0uZnLjvT3n0UK-1" target="7XKjJBY6jp77NSFB8tk4-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E-WlKir0uZnLjvT3n0UK-1" value="是否需要浇灌" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="540" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="E-WlKir0uZnLjvT3n0UK-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="7XKjJBY6jp77NSFB8tk4-22" target="7XKjJBY6jp77NSFB8tk4-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E-WlKir0uZnLjvT3n0UK-18" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="640" y="520" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="E-WlKir0uZnLjvT3n0UK-19" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="520" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="E-WlKir0uZnLjvT3n0UK-21" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="520" y="690" as="sourcePoint" />
+            <mxPoint x="600" y="610" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="570" y="640" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="E-WlKir0uZnLjvT3n0UK-22" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="510" y="640" as="sourcePoint" />
+            <mxPoint x="590" y="470" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="E-WlKir0uZnLjvT3n0UK-25" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="450" y="600" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="E-WlKir0uZnLjvT3n0UK-29" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="370" y="560" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="E-WlKir0uZnLjvT3n0UK-30" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="560" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="E-WlKir0uZnLjvT3n0UK-32" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="414" y="569.5" as="sourcePoint" />
+            <mxPoint x="384" y="569.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="E-WlKir0uZnLjvT3n0UK-33" value="否" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="380" y="550" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="E-WlKir0uZnLjvT3n0UK-34" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="E-WlKir0uZnLjvT3n0UK-18">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="650" y="560" as="sourcePoint" />
+            <mxPoint x="649.5" y="540" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="E-WlKir0uZnLjvT3n0UK-36" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="649.5" y="495" as="sourcePoint" />
+            <mxPoint x="649.5" y="525" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
